@@ -23,4 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 ./client_secret
-./client_secret.js
+./client_secret.json
+client_secret.json
